@@ -2,6 +2,9 @@
 
 # Task Manager User Guideline
 
+![Running Screenshot 1](screenshots/1.png)
+![Running Screenshot 2](screenshots/2.png)
+
 ## Introduction
 This program is created with Python and allows users to manage their tasks with deadlines. With this application, one can add tasks, set deadlines, mark tasks as completed, delete/save tasks, and get notifications over deadlines. This user guideline will provide information about the basic functionality and usage of the Task Manager.
 
